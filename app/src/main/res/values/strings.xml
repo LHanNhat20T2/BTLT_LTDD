@@ -1,0 +1,78 @@
+<resources>
+    <!--    Login  -->
+    <string name="app_name">BTTongHopLT</string>
+    <string name="login">LOGIN</string>
+    <string name="txtuserlogin">Nhập Email</string>
+    <string name="txtpwlogin">*****************</string>
+    <string name="cbremember">Remember me</string>
+    <string name="recoverpw">Forgot password?</string>
+    <string name="btnlogin">Login</string>
+    <string name="testview">Don\'t have an account?</string>
+    <!--    Sign Up -->
+    <string name="txtAcc">Create Account</string>
+    <string name="txtFirstName">Fisrt Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtEmailSU">Email</string>
+    <string name="txtPassW">PassWord</string>
+    <string name="loginsucess">Đăng nhập thành công</string>
+    <string name="loginerror">Username hoặc Password sai !</string>
+    <string name="txtSignup">Sign Up</string>
+    <!--    Profile -->
+    <string name="my_name">Lương Hàn Nhật</string>
+    <string name="posts">521.4K</string>
+    <string name="content">Bài viết</string>
+    <string name="friend">241.4K</string>
+    <string name="friend1">Bạn bè</string>
+    <string name="email">hannhat20T2@gmail.com</string>
+    <string name="address">Duy Xuyên, Quảng Nam</string>
+    <string name="phone">0898871228</string>
+    <string name="github">github.com/LHanNhat20T2</string>
+    <string name="follow">110.5K</string>
+    <string name="follow1">Theo dõi</string>
+    <!--    School  -->
+    <string name="txtschoolute">Trường Đại học Sư Phạm Kỹ thuật - Đại học Đà Nẵng</string>
+    <string name="txtweb">Trang web</string>
+    <string name="txtthread">Chỉ đường</string>
+    <string name="txtsave">Lưu</string>
+    <string name="txtcall">Gọi</string>
+    <string name="txtmota">Trường Đại học Sư phạm Kỹ thuật Đà Nẵng là một trường đại học chuyên ngành về khối ngành kỹ thuật tại Việt Nam,được đánh giá là một trong những trường đại học đầu ngành về đào tạo khối ngành kỹ thuật tại Miền Trung Việt Nam.</string>
+    <string name="txtWikipedia">Wikipedia</string>
+    <string name="txtaddress">Địa chỉ:</string>
+    <string name="txtcontextadd">48 Cao Thắng, Thanh Bình, Hải Châu, Đà Nẵng 550000</string>
+    <string name="txttime">Các giờ:</string>
+    <string name="txtcontexttime1">Đang mở cửa</string>
+    <string name="txtcontexttime2">Đóng cửa lúc 17:00 </string>
+    <string name="txtphone">Điện thoại:</string>
+    <string name="txtcontextphone">0236 3822 571</string>
+    <string name="txtestablishment">Ngày thành lập</string>
+    <string name="txtcontextablishment">2017</string>
+    <string name="txtprincipal">Hiệu trưởng:</string>
+    <string name="txtcontextprincipal">PGS TS Phan Cao Thọ</string>
+    <string name="txttype">Loại:</string>
+    <string name="txtcontexttype">Đại học Kỹ thuật hệ Công lập</string>
+    <string name="txtmember">Thành viên của:</string>
+    <string name="txtcontextmember">Đại học Đà Nẵng, trực thuộc Bộ Giáo dục và Đào tạo</string>
+    <string name="txtanother">Tên khác:</string>
+    <string name="txtcontext">Trường Kỹ thuật sư phạm</string>
+    <string name="txtnvt">Nguyễn Văn Trỗi</string>
+    <!--    Home -->
+    <string name="txtHorse">Ngựa</string>
+    <string name="txtFood">Thức ăn</string>
+    <string name="txtTool">Vật dụng</string>
+    <string name="txtTraingua">Trại Ngựa</string>
+
+    <!--    List ngua-->
+    <string name="txtNameNgua">Ngựa 1</string>
+    <string name="txtprice">Giá:</string>
+
+    <!--    Nav bar -->
+    <string name="action_home">Home</string>
+    <string name="action_school">School</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_order">Order</string>
+    <string name="action_cart">Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

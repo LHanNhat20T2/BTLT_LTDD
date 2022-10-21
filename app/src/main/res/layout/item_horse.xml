@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#CDB38B"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv_img"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:cardCornerRadius="999px"
+            >
+            <ImageView
+                android:id="@+id/img_horse"
+                android:scaleType="centerCrop"
+                android:src="@drawable/img_nguabach"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_name_horse"
+            android:layout_width="160dp"
+            android:minWidth="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_toRightOf="@+id/cv_img"
+            android:layout_marginTop="6dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/txtNameNgua"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:fontFamily="sans-serif-medium"
+            android:id="@+id/tv_desc"
+            android:text="mo ta"
+            android:minWidth="160dp"
+            android:minHeight="40dp"
+            android:layout_toRightOf="@+id/cv_img"
+            android:layout_below="@+id/tv_name_horse"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="24dp"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_width="120dp"
+            android:layout_height="24dp"/>
+
+        <TextView
+            android:fontFamily="sans-serif-medium"
+            android:layout_marginLeft="60dp"
+            android:layout_centerVertical="true"
+            android:id="@+id/tv_prince_horse"
+            android:text="@string/txtprice"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:layout_toRightOf="@+id/tv_name_horse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+</RelativeLayout>
